@@ -1,0 +1,40 @@
+
+# Add the source files to SRCS_LIST
+add_source_files(SRCS_LIST
+    filter/fir_decim.cpp
+    filter/fir_decim.h
+    filter/fir_decim_coef.h
+	rds/api.h
+	rds/constants.h
+	rds/decoder_impl.cc
+	rds/decoder_impl.h
+	rds/decoder.h
+	rds/parser_impl.cc
+	rds/parser_impl.h
+	rds/parser.h
+	rds/tmc_events.h
+	agc_impl.cpp
+	agc_impl.h
+	lpf.cpp
+	lpf.h
+	resampler_xx.cpp
+	resampler_xx.h
+	rx_agc_xx.cpp
+	rx_agc_xx.h
+	rx_demod_am.cpp
+	rx_demod_am.h
+	rx_demod_fm.cpp
+	rx_demod_fm.h
+	rx_fft.cpp
+	rx_fft.h
+	rx_filter.cpp
+	rx_filter.h
+	rx_meter.cpp
+	rx_meter.h
+	rx_noise_blanker_cc.cpp
+	rx_noise_blanker_cc.h
+	rx_rds.cpp
+	rx_rds.h
+	stereo_demod.cpp
+	stereo_demod.h
+)
