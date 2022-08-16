@@ -1,5 +1,5 @@
-This is a fork of kantoon's GQRX_fork project available on https://github.com/kantooon/gqrx_fork/tree/digital.
-The software is running fine as on today with following dependencies :
+This is a fork of kantooon's gqrx_fork project available on https://github.com/kantooon/gqrx_fork/tree/digital.
+The software is running fine as on today with following environment/dependencies :
 
 - Ubuntu 18.04
 - Gnuradio 3.7.11
