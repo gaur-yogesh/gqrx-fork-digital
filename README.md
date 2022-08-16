@@ -1,3 +1,12 @@
+This is a fork of kantoon's GQRX_fork project available on https://github.com/kantooon/gqrx_fork/tree/digital.
+The software is running fine as on today with following dependencies :
+
+- Ubuntu 18.04
+- Gnuradio 3.7.11
+- Qt5
+- Gr-dsd version availabe here : https://github.com/argilo/gr-dsd/tree/maint-3.7
+
+
 Gqrx
 ====
 
